@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "text": "Great product!",
+      "rating": 10,
+      "id": 1
+    },
+    {
+      "text": "Awesome service!",
+      "rating": 10,
+      "id": 2
+    },
+    {
+      "text": "A bit hard to use but still great",
+      "rating": 7,
+      "id": 3
+    }
+  ]
+}
